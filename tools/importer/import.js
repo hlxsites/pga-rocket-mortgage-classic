@@ -238,7 +238,7 @@ export default {
     } else if (u.pathname.startsWith('/tournaments/charles-schwab-cup-championship')) {
       makeAbsoluteLinks(main, 'https://main--pga-charles-schwab-cup-championship--hlxsites.hlx.page', '/champions/tournaments/charles-schwab-cup-championship');
     } else {
-      makeAbsoluteLinks(main, 'https://www.theplayers.com/');
+      makeAbsoluteLinks(main, 'https://www.rocketmortgageclassic.com/');
     }
 
     return main;
