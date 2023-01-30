@@ -1,5 +1,5 @@
 main .blockquote {
-  --blockquote-text-color: var(--color-blue);
+  --blockquote-text-color: var(--color-black);
 }
 
 main .blockquote blockquote {

@@ -124,7 +124,7 @@ main .video-hero-close::before {
   transform: rotate(45deg);
   width: 30px;
   height: 3px;
-  background: var(--color-blue);
+  background: var(--color-black);
   content: '';
 }
 

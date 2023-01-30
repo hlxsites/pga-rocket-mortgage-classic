@@ -1,5 +1,5 @@
 main .related-stories {
-  --related-stories-text-color: var(--color-blue);
+  --related-stories-text-color: var(--color-black);
   
   font-size: var(--body-font-size-s);
 }
